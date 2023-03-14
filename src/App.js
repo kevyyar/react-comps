@@ -4,13 +4,13 @@ function App() {
   return (
     <div>
       <div>
-        <Button>Click me</Button>
+        <Button success outline rounded>Click me</Button>
       </div>
       <div>
-        <Button>See Now</Button>
+        <Button success>See Now</Button>
       </div>
       <div>
-        <Button>Buy it!</Button>
+        <Button primary rounded>Buy it!</Button>
       </div>
     </div>
   );
