@@ -12,6 +12,16 @@ const items = [
     heading: "Heading 2",
     content: "other random content",
   },
+  {
+    id: crypto.randomUUID(),
+    heading: "Heading 3",
+    content: "other random content",
+  },
+  {
+    id: crypto.randomUUID(),
+    heading: "Heading 4",
+    content: "other random content",
+  },
 ];
 
 function App() {
